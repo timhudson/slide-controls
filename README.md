@@ -1,6 +1,6 @@
 # slide-controls
 
-Add arrow-key listeners for controlling slide-state
+Add arrow-key listeners for controlling [slide-state](https://www.npmjs.org/package/slide-state)
 
 ## Example
 
