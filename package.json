@@ -1,6 +1,6 @@
 {
   "name": "slide-controls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add arrow-key listeners for controlling slide-state",
   "main": "index.js",
   "repository": {
